@@ -1,0 +1,18 @@
+ Some modified textures from the HL2 development texture set.
+
+
+devhltex.wad  Halflife texture wad for Hammer
+
+devqtex.wad   Quake format texture set for Worldcrafrt ect.
+
+
+
+Mechtech
+
+==============================================================
+Version 2 is a repackage of the orginal with remipped versions
+of the texures so they display correctly in the TrenchBroom
+editor.
+
+dumptruck_ds
+==============================================================
